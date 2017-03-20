@@ -2,9 +2,22 @@
 {
   float: left;
   background-color: yellow;
+  overflow: auto;
 }
 
 body
 {
   background-color: blue;
+}
+
+*
+{
+  box-sizing: border-box;
+}
+@@media
+{
+  .container
+{
+  margin: 0 auto;
+}
 }
