@@ -1,4 +1,10 @@
 .container
 {
   float: left;
+  background-color: yellow;
+}
+
+body
+{
+  background-color: blue;
 }
